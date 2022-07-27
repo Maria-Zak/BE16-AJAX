@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<discography>
+   <album id="101">
+        <artist>Fleetwood Mac</artist>
+        <title>Tusk</title>
+        <genre>Rock</genre>
+   </album>
+   <album id="102">
+        <artist>Phoebe Bridgers</artist>
+        <title>Stranger in the Alps </title>
+        <genre >Indie</genre>
+   </album >
+   <album id ="103">
+        <artist>Mariah Carey</artist>
+        <title>Music Box </title>
+        <genre> Fantasy</genre>
+   </album >
+   <album  id="104">
+        <artist> Michael Jackson</artist>
+        <title> Thriller</title>
+        <genre> Pop</genre>
+   </album>
+</discography>
